@@ -1,0 +1,2 @@
+forecast_timestamp,predicted_cpu,predicted_memory,workload_class,recommended_cpu_cores,recommended_memory_gb,estimated_hourly_cost,allocation_status
+2025-05-05 23:00:00,35.93645800585965,43.30175055555943,MEDIUM,3,7,0.155,FEASIBLE
